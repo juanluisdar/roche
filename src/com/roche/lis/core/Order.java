@@ -17,6 +17,7 @@ public class Order {
 
     public void addTest(Test test) {
     	//test f2. bugfixed 2.0
+    	//hotfix 1.1.1
 	testSet.add(test);
     }
 
